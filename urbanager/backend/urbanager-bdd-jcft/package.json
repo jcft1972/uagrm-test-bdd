@@ -1,0 +1,30 @@
+{
+  "name": "urbanager-bdd-jcft",
+  "version": "1.0.0",
+  "description": "BDD para JCFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcft1972/uagrm-test-bdd.git"
+  },
+  "keywords": [
+    "BDD",
+    "TEST",
+    "REST",
+    "TDD"
+  ],
+  "author": "Julio C. Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcft1972/uagrm-test-bdd/issues"
+  },
+  "homepage": "https://github.com/jcft1972/uagrm-test-bdd#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "cucumber": "^4.2.1",
+    "request": "^2.85.0"
+  }
+}
